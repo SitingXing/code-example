@@ -1,14 +1,15 @@
-
-body{
-    margin-top: 2%;
-    margin-left: 2%;
-}
-button {
-    font-family: system-ui;
-    background: orange;
-    color: white;
-    text-align: center;
-    padding: 1%;
-    border-radius: 50px;
-    font-weight: bold;
+@media all and (min-width: 480px){
+    body{
+        margin-top: 2%;
+        margin-left: 2%;
+    }
+    button {
+        font-family: system-ui;
+        background: orange;
+        color: white;
+        text-align: center;
+        padding: 1%;
+        border-radius: 50px;
+        font-weight: bold;
+    }
 }
